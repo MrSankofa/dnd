@@ -1,0 +1,15 @@
+{
+  "name": "dnd",
+  "version": "0.0.1",
+  "description": "This is the workflow used to develop the website in object oriented manner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Brett, Loic, Yvon",
+  "license": "ISC"
+}
